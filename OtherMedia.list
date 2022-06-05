@@ -2,4 +2,7 @@
 
 
 # emby
-DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX,*.odysseyplus.*
+
+# emby
+DOMAIN-SUFFIX,*.emby.wtf
