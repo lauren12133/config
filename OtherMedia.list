@@ -2,7 +2,7 @@
 
 
 # emby
-DOMAIN-SUFFIX,*.odysseyplus.*
+DOMAIN-SUFFIX,odysseyplus.site
 
 # emby
-DOMAIN-SUFFIX,*.emby.wtf
+DOMAIN-SUFFIX,emby.wtf
