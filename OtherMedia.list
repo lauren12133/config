@@ -2,10 +2,8 @@
 
 
 # emby
-DOMAIN-SUFFIX,odysseyplus.site
-
-# emby
-DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,*.odysseyplus.site
+DOMAIN-SUFFIX,*.emby.wtf
 
 # anydesk
 DOMAIN-SUFFIX,*.net.anydesk.com
