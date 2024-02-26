@@ -7,6 +7,5 @@ DOMAIN-SUFFIX,odysseyplus.site
 # emby
 DOMAIN-SUFFIX,emby.wtf
 
-# sub
-DOMAIN-SUFFIX,anydesk.net
+# anydesk
 DOMAIN-SUFFIX,*.net.anydesk.com
